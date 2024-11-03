@@ -120,4 +120,4 @@ Contributions are welcome! If you'd like to contribute, please fork the reposito
 5. Create a new Pull Request.
 
 
-This README provides a structured overview of your project, helping users understand its purpose, setup, and usage. Let me know if you'd like any changes!
+This README provides a structured overview of a project, helping users understand its purpose, setup, and usage. Let me know if you'd like any changes!
