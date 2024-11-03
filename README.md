@@ -109,10 +109,6 @@ function CustomButton() {
 export default CustomButton;
 ```
 
- Screenshots
-
-Include some screenshots of your project here to showcase the UI, theming, and responsiveness.
-
  Contributing
 
 Contributions are welcome! If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcomed.
